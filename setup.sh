@@ -5,7 +5,7 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
 pip install flask
-npm install react.js
+npm install react
 cd ~
 wget https://api.github.com/repos/Cheeta-Panel/Cheeta-Panel/Releases/Panel Panel.zip
 wget https://api.github.com/repos/Cheeta-Panel/Cheeta-Panel/Releases/Wings Wings.zip
