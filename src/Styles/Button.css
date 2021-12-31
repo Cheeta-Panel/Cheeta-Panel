@@ -1,0 +1,14 @@
+button {
+    margin: 1rem;
+    font-size: 18px;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+    Right: 47%;
+    bottom: 20px;
+    background: #25253d;
+    color: whitesmoke;
+    position: absolute;
+    filter: brightness(1.2);
+}
