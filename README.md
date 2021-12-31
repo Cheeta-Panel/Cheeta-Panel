@@ -1,9 +1,6 @@
-# Cheeta-Panel
-The main panel for Cheeta-Panel, access the wings source code in the wings branch.
-
 <br />
 <br />
-<h1>Cheeta Panel</h1>
+<h1 align="center">Cheeta Panel</h1>
 <br />
 <p align="center">
     <a href="https://github.com/Cheeta-Panel/Cheeta-Panel/releases" target="_blank">
