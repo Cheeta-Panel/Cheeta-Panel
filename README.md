@@ -31,14 +31,9 @@ The main panel for Cheeta Panel, access the wings source code in the wings branc
 
 ## Installation
 **NodeJS v16.6.0 or newer is required**
-```sh
-npm install
-```
+**Python v3.8 or newer is required**
 
-## Run tests
-```sh
-npm test
-```
+Once installed download and execute the setup.sh file
 
 ## Help
 If you need any help regarding repository contribution, check out the [contributing guide](https://github.com/Cheeta-Panel/Cheeta-Panel/blob/main/.github/CONTRIBUTING.md).
