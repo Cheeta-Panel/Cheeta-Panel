@@ -10,7 +10,7 @@
         <img alt="License: Apache-2.0 License" src="https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/Astura-Studios/Astura/contributors" target="_blank">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/Cheeta-Panel/Cheeta-Panel/?style=for-the-badge&logo=github">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/Cheeta-Panel/Cheeta-Panel?color=blue&logo=github&style=for-the-badge">
     </a>
     <a href="https://github.com/Cheeta-Panel/Cheeta-Panel/search?l=typescript" target="_blank">
         <img alt="Top language" src="https://img.shields.io/github/languages/top/Cheeta-Panel/Cheeta-Panel?style=for-the-badge&logo=github">
