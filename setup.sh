@@ -4,7 +4,7 @@ if [ "$EUID" -ne 0 ]
   then echo "This setup script needs to run as sudo"
   exit
 fi
-pip install flask
+npm install express
 npm install react
 cd ~
 wget https://api.github.com/repos/Cheeta-Panel/Cheeta-Panel/Releases/Panel Panel.zip
