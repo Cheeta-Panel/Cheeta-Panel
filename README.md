@@ -21,7 +21,7 @@
 </p>
 
 ## About
-The main panel for Cheeta Panel, access the wings source code in the wings branch. 
+The main panel for Cheeta Panel, access the wings source code in the wings branch.
 
 * Feature 1
 * Feature 2
